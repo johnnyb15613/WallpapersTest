@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+
+    <!--
+         Categories accept:
+        id="<string>" unique id string
+        name="<string>" visual name
+        
+        Wallpapers accept:
+        url="<url of wallpaper>"
+        thumbUrl="<url of thumbnail>"
+        author="<author>" may be used for filtering later
+        date="<date added>" may be used for filtering later
+        name="<wallpaper name">
+    -->
+
+    <category name="By Team Sourcery" >
+
+        <wallpaper
+            author="Chizzele"
+            name="Fire Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/firets.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="HD Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/hdts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Ice Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/icets.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="HD Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jeansts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Lights"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/lights.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+             name="Monster Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/monsterts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Speakers Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/speakerts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Speed Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/speedts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Sphere Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/spherets.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Board Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/boardts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Wall Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/wallts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="3D Beach Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/d_beachts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="A-12 Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/a12ts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Aces Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/acests.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="AndroCube Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/androcubets.jpg" />
+       
+        <wallpaper
+            author="Chizzele"
+            name="Bubbles Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/bubblests.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Globe Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/globets.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Sky Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/skyts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Blue Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/bluets.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Blocks Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/blocksts.jpg" />
+
+        <wallpaper
+            author="Chizzele"
+            name="Boat Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/boatts.jpg" />
+
+        <wallpaper
+            author="Eagle"
+            name="Eagle"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/eagle.jpg" />
+
+        <wallpaper
+            author="atreyu381"
+            name="V3.0 Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery4.jpg" />
+
+        <wallpaper
+            author="atreyu381"
+            name="V2.0 Team Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery.jpg" />
+
+        <wallpaper
+            author="atreyu381"
+            name="Sourcery Smoke"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcery_smoke1.jpg" />
+
+        <wallpaper
+            author="johnnyb15613"
+            name="Wizard #1"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/wizard1.jpg" />
+
+        <wallpaper
+            author="johnnyb15613"
+            name="Wizard #2"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/wizard2.jpg" />
+
+        <wallpaper
+            author="johnnyb15613"
+            name="Wizard #3"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/wizard3.jpg" />
+
+        <wallpaper
+            author="Alastrionia"
+            name="Wizard #4"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcerybrokenworld.jpg" />
+
+        <wallpaper
+            author="Alastrionia"
+            name="Cosmic Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcerycosmic.jpg" />
+
+        <wallpaper
+            author="Alastrionia"
+            name="Sourcery Earth Destroyer"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourceryearthdestroyer.jpg" />
+
+        <wallpaper
+            author="TeamSourcery"
+            name="Wizardess"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/wizardess.jpg" />
+
+         <wallpaper
+            author="TeamSourcery"
+            name="Magic BG"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/magic_bg.jpg" />
+
+        <wallpaper
+            author="TeamSourcery"
+            name="Magic Mushroom"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/magic_mushroom.jpg" />
+
+        <wallpaper
+            author="TeamSourcery"
+            name="Flurries"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/flurries_aw5.jpg" />
+
+        <wallpaper
+            author="TeamSourcery"
+            name="Pink and Black"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/pink_and_black_cro.jpg" />
+
+         <wallpaper
+            author="TeamSourcery"
+            name="Spooky Tree"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/spooky_tree_cx0.jpg" />
+
+        <wallpaper
+            author="TeamSourcery"
+            name="Purple Smoke"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/purple_smoke_6bz.jpg" />
+
+        
+    </category>
+
+    <category name="Great Work By others" >
+
+        <wallpaper
+            author="CJM"
+            name="Gothic Fantasy"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/gothic_fantasy.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Gothic Wallpaper"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/gothicwallpaper.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Gothic Wallpaper #2"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/gothicwallpaper2.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Black Reflection"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/black_reflection_2_sourcery_icon_db.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="DeepBlue Reflection"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/black_reflection_2_sourcery_icon_deepblue.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="DeepPurple Reflection"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/black_reflection_2_sourcery_icon_deeppurple.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Sourcery Fantasy"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcery_fantasy.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Hand #1"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/hand_v3_2.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Hand #2"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/hand_v3_3_1.jpg" />
+
+        <wallpaper
+            author="CJM"
+            name="Hand #3"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/hand_v3_3_2.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Blue Babe"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery3.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Glow GLobe"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery5.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Evil Skeleton"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/evilskeleton.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Android Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/picart1.jpg" />
+
+         <wallpaper
+            author="justen7723"
+            name="Sourcery JB Android"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/picart2.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Sourcrey Babe Blue"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/picart3.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Sourcery Star Android"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/picart4.jpg" />
+
+        <wallpaper
+            author="justen7723"
+            name="Alien Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/picart5.jpg" />
+
+         <wallpaper
+            author="justen7723"
+            name="My Sourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/mysourcery2.jpg" />
+
+        <wallpaper
+            author="Nemo Aeternamn"
+            name="Sourcery Lines"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcerylines.jpg" />
+
+        <wallpaper
+            author="Nemo Aeternamn"
+            name="Sourcery Motion"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcerymotion.jpg" />
+
+        <wallpaper
+            author="Nemo Aeternamn"
+            name="Sourcery Tracks"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/sourcerytracks.jpg" />
+
+         <wallpaper
+            author="dianeofarcadia"
+            name="JBSourcery"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery6.png" />
+
+        <wallpaper
+            author="Wad3D"
+            name="JBSourcery #1"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery1.jpg" />
+
+        <wallpaper
+            author="Wad3D"
+            name="JBSourcery #2"
+            url="http://teamsourcery.com/ICSourcery/gnex/WallPapers/jbsourcery2.jpg" />
+
+       </category>
+
+</wallpapers>
